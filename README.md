@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<p align="center"><img src=".github/header.jpg"></p>
 <div align="center">
     
 [![Stand With Ukraine](https://github.com/matronator/matronator/raw/main/.github/header.jpg)](https://stand-with-ukraine.pp.ua)
